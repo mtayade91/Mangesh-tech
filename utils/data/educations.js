@@ -1,9 +1,9 @@
 export const educations = [
   {
     id: 1,
-    title: "B.E Mechanical Engineering (Dropout)",
+    title: "B.E Mechanical Engineering(Dropout)",
     duration: "2009 - 2013",
-    institution: "St. Vincent Pallotti College of Engineering, Nagpur, Maharashtra  ",
+    institution: "St. Vincent Pallotti College of Engineering & Technology-Nagpur",
   },
   {
     id: 2,

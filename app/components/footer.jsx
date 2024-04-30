@@ -1,6 +1,5 @@
 // @flow strict
 import Link from 'next/link';
-import { CgGitFork } from "react-icons/cg";
 import { IoStar } from "react-icons/io5";
 
 function Footer() {
@@ -21,15 +20,7 @@ function Footer() {
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />
-              <span>Star</span>
-            </Link>
-            <Link
-              target="_blank"
-              href="https://github.com/mtayade91"
-              className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
-            >
-              <CgGitFork />
-              <span>Fork</span>
+              <span>GitHub</span>
             </Link>
           </div>
         </div>
