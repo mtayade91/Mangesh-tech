@@ -1,17 +1,15 @@
 export const personalData = {
-  name: "MANGESH TAYADE",
+  name: "Mangesh Tayade",
   profile: '/profile.png',
-  designation: "Front End Developer",
-  description: "My name is Mangesh Tayade. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  designation: "Web Developer",
+  description: "I am a professional, versatile, and passionate programmer in my daily life. I am a quick learner and have a self-learning attitude. I enjoy learning and exploring new technologies and am passionate about problem-solving. I love almost all the stacks of software engineering. My current stack includes JavaScript, React.js, TailwindCss, MongoDB, Node.js, Html, CSS and Wordpress",
   email: 'mtayade91@gmail.com',
   phone: '+917030707022',
-  address: 'Flat no. 209,Gurudatta heights,Nanded City, Sinhagad Road, Pune, Maharashtra 411041',
+  address: 'Nanded City, Pune-411041, Maharashtra India ',
   github: 'https://github.com/mtayade91',
-  facebook: 'https://www.facebook.com/mtayade/',
+  facebook: 'https://www.facebook.com/mtayade',
   linkedIn: 'https://www.linkedin.com/in/mangesh-tayade/',
   twitter: 'https://twitter.com/mangesh_inc',
-  stackOverflow: '',
-  leetcode: "",
   devUsername: "mtayade91",
-  resume: ""
+  resume: "https://drive.google.com/file/d/1pj6tBH5oqSBFvGv6rEfHsajcbrb3nnMF/view?usp=sharing"
 }
