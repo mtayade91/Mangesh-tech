@@ -38,7 +38,22 @@ export const projectsData = [
   code: "",
   demo: "https://github.com/mtayade91/youtube-clone-backend",
   image: Course,
-  }
+  },
+  {
+    id: 3,
+name: "Music Course Academy Website",
+description: "Music Course Academy is a sophisticated and interactive web application designed to provide comprehensive music education to users of all skill levels. Built using modern web technologies such as Next.js, Tailwind CSS, Aceternity-UI, and TypeScript, the platform offers a seamless and engaging learning experience.",
+tools: [
+  "Next.js",
+  "Aceternity-UI",
+  "Tailwind",
+  "Typescript",
+],
+role: "Fornt-End Developer",
+code: "",
+demo: "https://github.com/mtayade91/musicwebsite",
+image: Course,
+}
 ];
 
 
