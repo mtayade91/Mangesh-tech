@@ -20,7 +20,25 @@ export const projectsData = [
     code: "",
     demo: "",
     image: Course,
-    }
+    },
+    {
+      id: 2,
+  name: "Youtube Clone - Backend",
+  description:
+    "This project is a sophisticated backend system developed using Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, and various other technologies. It encompasses all essential features expected in a backend project. We are creating a comprehensive video hosting platform akin to YouTube, complete with functionalities such as login, signup, video uploads, likes, dislikes, comments, replies, subscriptions, and more.",
+  tools: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose",
+    "bcrypt",
+    "JWT authentication",
+  ],
+  role: "Back-End Developer",
+  code: "",
+  demo: "https://github.com/mtayade91/youtube-clone-backend",
+  image: Course,
+  }
 ];
 
 
