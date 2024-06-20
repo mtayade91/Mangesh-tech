@@ -1,9 +1,9 @@
 export const educations = [
   {
     id: 1,
-    title: "B.E Mechanical Engineering(Dropout)",
-    duration: "2009 - 2013",
-    institution: "St. Vincent Pallotti College of Engineering & Technology-Nagpur",
+    title: "Bachelor of Computer Application (BCA)",
+    duration: "2014 - 2017",
+    institution: "Gondwana University",
   },
   {
     id: 2,

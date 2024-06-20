@@ -9,6 +9,6 @@ export const experiences = [
     id: 2,
     title: "Freelance Web Developer",
     company: "Freelance",
-    duration: "(Jun 2014 - Nov 2022)"
+    duration: "(Jun 2017 - Nov 2022)"
   }
 ]
